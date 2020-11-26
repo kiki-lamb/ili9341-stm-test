@@ -1,4 +1,4 @@
- #include "Adafruit_ILI9341_STM.h"
+#include "Adafruit_ILI9341_STM.h"
 #include <SPI.h>
 
 SPIClass             spi_1 { 1        };
